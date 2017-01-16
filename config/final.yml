@@ -1,0 +1,7 @@
+---
+blobstore:
+  provider: local
+  options:
+    blobstore_path: /tmp/ardo_blobs
+blobstore_secret: 'does-not-matter'
+final_name: ardo

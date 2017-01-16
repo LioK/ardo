@@ -1,0 +1,17 @@
+---
+libyaml_0.1.4/yaml-0.1.4.tar.gz:
+  object_id: 41e06b18-2447-411e-9a51-0c5709052288
+  sha: e0e5e09192ab10a607e3da2970db492118f560f2
+  size: 471759
+ruby_1.9.3/ruby-1.9.3-p484.tar.gz:
+  object_id: 6a603ba9-71f1-4b80-a06a-45aa512ab6e7
+  sha: 6ae80f424968b5ce661ee9b2bee1c21adc9ee67c
+  size: 12576996
+ruby_1.9.3/rubygems-1.8.24.tgz:
+  object_id: 12815500-4872-4bcb-a9dd-b5d3730ff2eb
+  sha: 30f27047e74f7943117736a0d3e224994fee0905
+  size: 380101
+ruby_1.9.3/bundler-1.2.1.gem:
+  object_id: 534fcec4-32e7-47f9-bcc6-27a42063c542
+  sha: 0cbe6ad7a41f064d6c11c1058465fffb1bd58069
+  size: 226816
